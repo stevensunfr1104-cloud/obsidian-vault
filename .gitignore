@@ -1,0 +1,19 @@
+# Obsidian 系统文件（大且会变）
+.obsidian/
+.trash/
+
+# 媒体文件（视频、音频——太大了）
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.mp3
+*.wav
+*.m4a
+
+# macOS
+.DS_Store
+
+# 其他大文件
+*.zip
+*.tar.gz
